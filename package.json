@@ -1,0 +1,7 @@
+{
+  "name": "barath's Portfolio",
+  "scripts": {
+    "start": "node server.js" // or whatever your entry point is
+  },
+  
+}
